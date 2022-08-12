@@ -1,0 +1,43 @@
+#tudo{
+  width: 900px;
+  height: 700px;
+  background-color: brown;
+  padding: 5px;
+}
+
+#cabecalho{
+  width: 800px;
+  height: 100px;
+  margin-left: 5px;
+  margin-top: 15px;
+  background-color: blueviolet;
+}
+
+#logo{
+  width: 100px;
+  height: 80px;
+  background-color: aqua;
+  margin-left: 5px;
+  padding-left: 20px;
+}
+
+#dado{
+  width: 100px;
+  height: 90px;
+  background-color: blue;
+  margin-right: 20px;
+  padding-right: 20px;
+}
+#contatos{
+  width: 80px;
+  height: 400px;
+  background-color: beige;
+  margin-top: 40px;
+  padding: 20px;
+}
+#baixo{
+  height: 100px;
+  width: 800px;
+  background-color: rgb(127, 255, 159);
+  margin-top: 20px;
+}
